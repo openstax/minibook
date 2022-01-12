@@ -1,0 +1,17 @@
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
+  <col:metadata>
+    <md:title>Algebra and Trigonometry 2e</md:title>
+    <md:slug>algebra-and-trigonometry-2e</md:slug>
+    <md:language>en</md:language>
+    <md:uuid>eaefdaf1-bda0-4ada-a9fe-f1c065bfcc4e</md:uuid>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
+  </col:metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Further Applications of Trigonometry</md:title>
+      <col:content>
+        <col:module document="m49402"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

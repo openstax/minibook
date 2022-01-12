@@ -1,0 +1,39 @@
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
+  <col:metadata>
+    <md:title>Precalculus 2e</md:title>
+    <md:slug>precalculus-2e</md:slug>
+    <md:language>en</md:language>
+    <md:uuid>f021395f-fd63-46cd-ab95-037c6f051730</md:uuid>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
+  </col:metadata>
+  <col:content>
+    <col:module document="m50919"/>
+    <col:subcollection>
+      <md:title>Polynomial and Rational Functions</md:title>
+      <col:content>
+        <col:module document="m49334"/>
+        <col:module document="m49335"/>
+        <col:module document="m49337"/>
+        <col:module document="m49346"/>
+        <col:module document="m49347"/>
+        <col:module document="m49348"/>
+        <col:module document="m49349"/>
+        <col:module document="m49351"/>
+        <col:module document="m49352"/>
+        <col:module document="m49353"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Trigonometric Functions</md:title>
+      <col:content>
+        <col:module document="m49369"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Further Applications of Trigonometry</md:title>
+      <col:content>
+        <col:module document="m49402"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
